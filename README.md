@@ -30,9 +30,7 @@ with open("nakul.txt","r")as f1:
         num += len(word)
 print("The number of words are in the file is ",num)
 ### OUTPUT:
-![image](https://github.com/Nakul1411/Word-Count/assets/138849780/3eb91133-712a-4b51-8802-c5e5ceec3ef0)
-
-
+![Screenshot 2024-05-21 145128](https://github.com/Nakul1411/Word-Count/assets/138849780/ae4ffa4b-d897-4c44-b7f9-9f6633f1390e)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
